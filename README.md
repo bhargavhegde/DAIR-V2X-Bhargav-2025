@@ -49,6 +49,18 @@ bash scripts/eval_lidar_late_fusion_pointpillars.sh 0 late_fusion 2 0 100
 ---
 
 ### Visualizations
+```bash
+cd viz
+
+#1
+python vis_3d_autoplay.py
+
+#2
+python vis_bev_fusion.py
+
+#3
+python vis_3d_final.py
+
 
 
 
