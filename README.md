@@ -2,7 +2,7 @@
 
 **Bhargav Hegde**  
 **Course Project – Fall 2025**  
-**Supervisor:** Dr. Chunming Qiao  
+**Supervisor:** Professor Chunming Qiao  
 **Department of Computer Science and Engineering, University at Buffalo**  
 
 **Repository:** https://github.com/bhargavhegde/DAIR-V2X-Bhargav-2025  
@@ -24,7 +24,6 @@
 
 ### Visualizations
 
-<!-- Replace the links below with your actual screenshots -->
 ![Fused Point Cloud + Detections](assets/fused_pointcloud.png)  
 *Fused LiDAR point cloud from vehicle and infrastructure*
 
@@ -38,7 +37,7 @@
 ### Getting Started (Tested & Working — November 2025)
 
 ```bash
-# 1. Clone the repository
+# 1. Clone repository
 git clone https://github.com/bhargavhegde/DAIR-V2X-Bhargav-2025.git
 cd DAIR-V2X-Bhargav-2025
 
@@ -46,5 +45,18 @@ cd DAIR-V2X-Bhargav-2025
 conda env create -f dair-v2x-environment.yml
 conda activate dair-v2x
 
-# 3. Link the official dataset (download from Google Drive first)
+# 3. Link official dataset (download from Google Drive first)
 ln -s /path/to/cooperative-vehicle-infrastructure data/DAIR-V2X
+
+Inference & Evaluation (V2I Late Fusion)
+
+---
+
+### Inference
+
+cd v2x
+bash scripts/eval_lidar_late_fusion_pointpillars.sh 0 late_fusion 2 0 100
+
+---
+
+### Visualisation
