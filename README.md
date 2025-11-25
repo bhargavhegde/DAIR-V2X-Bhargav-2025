@@ -11,7 +11,7 @@
 
 **Licence:** MIT
 
-**Original model: https://github.com/AIR-THU/DAIR-V2X**
+*Original model: https://github.com/AIR-THU/DAIR-V2X*
 ---
 
 ### Results — Vehicle Class (Official Test Set)
