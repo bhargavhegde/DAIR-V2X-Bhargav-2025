@@ -7,7 +7,8 @@
 **Repository:** https://github.com/bhargavhegde/DAIR-V2X-Bhargav-2025  
 **Date:** November 2025  
 **Hardware:** NVIDIA RTX 3080 Ti Laptop GPU  
-**OS:** Ubuntu 22.04 LTS 
+**OS:** Ubuntu 22.04 LTS
+
 **Licence:** MIT
 
 ---
