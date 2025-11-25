@@ -1,14 +1,14 @@
 # DAIR-V2X Cooperative 3D Object Detection — Full Working Reproduction (2025)
 
-**Bhargav Hegde**  
-**Course Project – Fall 2025**  
+**Bhargav Hegde**   
 **Supervisor:** Dr. Chunming Qiao  
 **Department of Computer Science and Engineering, University at Buffalo**  
 
 **Repository:** https://github.com/bhargavhegde/DAIR-V2X-Bhargav-2025  
 **Date:** November 2025  
 **Hardware:** NVIDIA RTX 3080 Ti Laptop GPU  
-**OS:** Ubuntu 22.04 LTS  
+**OS:** Ubuntu 22.04 LTS 
+**Licence:** MIT
 
 ---
 
