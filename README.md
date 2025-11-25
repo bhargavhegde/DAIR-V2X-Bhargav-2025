@@ -2,7 +2,7 @@
 
 **Bhargav Hegde**  
 **Course Project – Fall 2025**  
-**Supervisor:** Professor Chunming Qiao  
+**Supervisor:** Dr. Chunming Qiao  
 **Department of Computer Science and Engineering, University at Buffalo**  
 
 **Repository:** https://github.com/bhargavhegde/DAIR-V2X-Bhargav-2025  
