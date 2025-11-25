@@ -22,17 +22,6 @@
 
 ---
 
-### Visualizations
-
-![Fused Point Cloud + Detections](assets/fused_pointcloud.png)  
-*Fused LiDAR point cloud from vehicle and infrastructure*
-
-![3D Bounding Box Predictions](assets/3d_detection.png)  
-*Ground truth (green) vs predicted (red) bounding boxes*
-
-*(More results in `/assets`)*
-
----
 
 ### Getting Started (Tested & Working — November 2025)
 
@@ -48,7 +37,6 @@ conda activate dair-v2x
 # 3. Link official dataset (download from Google Drive first)
 ln -s /path/to/cooperative-vehicle-infrastructure data/DAIR-V2X
 
-Inference & Evaluation (V2I Late Fusion)
 
 ---
 
@@ -59,4 +47,14 @@ bash scripts/eval_lidar_late_fusion_pointpillars.sh 0 late_fusion 2 0 100
 
 ---
 
-### Visualisation
+### Visualizations
+
+![Fused Point Cloud + Detections](assets/fused_pointcloud.png)  
+*Fused LiDAR point cloud from vehicle and infrastructure*
+
+![3D Bounding Box Predictions](assets/3d_detection.png)  
+*Ground truth (green) vs predicted (red) bounding boxes*
+
+*(More results in `/assets`)*
+
+---
