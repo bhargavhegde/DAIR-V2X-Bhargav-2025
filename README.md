@@ -62,7 +62,8 @@ python vis_bev_fusion.py
 #3
 python vis_3d_final.py
 
-
+#4
+python vis_interactive.py
 
 
 ---
